@@ -1,7 +1,7 @@
-**Tic-Tac-Toe (Python Tkinter)** 🎮
+# **Tic-Tac-Toe (Python Tkinter)** 🎮
 A simple Tic-Tac-Toe game built with Python and Tkinter. Players take turns marking "X" and "O" on a 3x3 grid, and the first to get three in a row wins!
 
-📌 Features
+## 📌** Features**
 ✔️ Two-player turn-based gameplay
 ✔️ Detects winning conditions (rows, columns, diagonals)
 ✔️ Highlights the winning combination in green
